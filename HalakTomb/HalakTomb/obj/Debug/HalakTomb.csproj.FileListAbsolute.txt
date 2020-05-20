@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\obj\Debug\HalakTomb.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\obj\Debug\HalakTomb.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\bin\Debug\HalakTomb.exe.config
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\bin\Debug\HalakTomb.exe
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\bin\Debug\HalakTomb.pdb
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\obj\Debug\HalakTomb.exe
+C:\Users\Soma\Documents\C#2\HalakTomb\HalakTomb\obj\Debug\HalakTomb.pdb
